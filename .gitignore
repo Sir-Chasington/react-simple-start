@@ -2,7 +2,6 @@
 /output
 dist
 tmp
-yarn.lock
 node_modules
 .cache
 .DS_Store
